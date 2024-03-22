@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\Zangtics Digital\\VB.NET\\VB.NET-PROJECTS-master\\Shopping Cart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D08705F9-23F3-475A-AFB5-D9D6FFCE3B64}|Shopping Cart\\Shopping Cart.vbproj|c:\\xampp\\htdocs\\zangtics digital\\vb.net\\vb.net-projects-master\\shopping cart\\shopping cart\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D08705F9-23F3-475A-AFB5-D9D6FFCE3B64}|Shopping Cart\\Shopping Cart.vbproj|solutionrelative:shopping cart\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08705F9-23F3-475A-AFB5-D9D6FFCE3B64}|Shopping Cart\\Shopping Cart.vbproj|c:\\xampp\\htdocs\\zangtics digital\\vb.net\\vb.net-projects-master\\shopping cart\\shopping cart\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D08705F9-23F3-475A-AFB5-D9D6FFCE3B64}|Shopping Cart\\Shopping Cart.vbproj|solutionrelative:shopping cart\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08705F9-23F3-475A-AFB5-D9D6FFCE3B64}|Shopping Cart\\Shopping Cart.vbproj|c:\\xampp\\htdocs\\zangtics digital\\vb.net\\vb.net-projects-master\\shopping cart\\shopping cart\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D08705F9-23F3-475A-AFB5-D9D6FFCE3B64}|Shopping Cart\\Shopping Cart.vbproj|solutionrelative:shopping cart\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Zangtics Digital\\VB.NET\\VB.NET-PROJECTS-master\\Shopping Cart\\Shopping Cart\\App.config",
+              "RelativeDocumentMoniker": "Shopping Cart\\App.config",
+              "ToolTip": "C:\\xampp\\htdocs\\Zangtics Digital\\VB.NET\\VB.NET-PROJECTS-master\\Shopping Cart\\Shopping Cart\\App.config",
+              "RelativeToolTip": "Shopping Cart\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-22T07:52:32.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Zangtics Digital\\VB.NET\\VB.NET-PROJECTS-master\\Shopping Cart\\Shopping Cart\\Form1.vb",
+              "RelativeDocumentMoniker": "Shopping Cart\\Form1.vb",
+              "ToolTip": "C:\\xampp\\htdocs\\Zangtics Digital\\VB.NET\\VB.NET-PROJECTS-master\\Shopping Cart\\Shopping Cart\\Form1.vb",
+              "RelativeToolTip": "Shopping Cart\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-22T07:51:24.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Zangtics Digital\\VB.NET\\VB.NET-PROJECTS-master\\Shopping Cart\\Shopping Cart\\Form1.vb",
+              "RelativeDocumentMoniker": "Shopping Cart\\Form1.vb",
+              "ToolTip": "C:\\xampp\\htdocs\\Zangtics Digital\\VB.NET\\VB.NET-PROJECTS-master\\Shopping Cart\\Shopping Cart\\Form1.vb [Design]",
+              "RelativeToolTip": "Shopping Cart\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-22T07:51:21.041Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -10,3 +10,15 @@ C:\Users\ABHIJITH UDAYAKUMAR\source\repos\Shopping Cart\Shopping Cart\obj\Debug\
 C:\Users\ABHIJITH UDAYAKUMAR\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.exe
 C:\Users\ABHIJITH UDAYAKUMAR\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.xml
 C:\Users\ABHIJITH UDAYAKUMAR\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.pdb
+C:\xampp\htdocs\Zangtics Digital\VB.NET\VB.NET-PROJECTS-master\Shopping Cart\Shopping Cart\bin\Debug\Shopping Cart.exe.config
+C:\xampp\htdocs\Zangtics Digital\VB.NET\VB.NET-PROJECTS-master\Shopping Cart\Shopping Cart\bin\Debug\Shopping Cart.exe
+C:\xampp\htdocs\Zangtics Digital\VB.NET\VB.NET-PROJECTS-master\Shopping Cart\Shopping Cart\bin\Debug\Shopping Cart.pdb
+C:\xampp\htdocs\Zangtics Digital\VB.NET\VB.NET-PROJECTS-master\Shopping Cart\Shopping Cart\bin\Debug\Shopping Cart.xml
+C:\xampp\htdocs\Zangtics Digital\VB.NET\VB.NET-PROJECTS-master\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.vbproj.AssemblyReference.cache
+C:\xampp\htdocs\Zangtics Digital\VB.NET\VB.NET-PROJECTS-master\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.Form1.resources
+C:\xampp\htdocs\Zangtics Digital\VB.NET\VB.NET-PROJECTS-master\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.Resources.resources
+C:\xampp\htdocs\Zangtics Digital\VB.NET\VB.NET-PROJECTS-master\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.vbproj.GenerateResource.cache
+C:\xampp\htdocs\Zangtics Digital\VB.NET\VB.NET-PROJECTS-master\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.vbproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Zangtics Digital\VB.NET\VB.NET-PROJECTS-master\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.exe
+C:\xampp\htdocs\Zangtics Digital\VB.NET\VB.NET-PROJECTS-master\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.xml
+C:\xampp\htdocs\Zangtics Digital\VB.NET\VB.NET-PROJECTS-master\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.pdb
