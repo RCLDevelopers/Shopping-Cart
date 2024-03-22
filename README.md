@@ -1,11 +1,9 @@
 <h1 align="center">
-  Shopping Cart
+  Arithmetic Operations
 </h1>
 <p align="center">
-  Develop a simple Shopping Cart application.
+  Develop simple window application for performing arithmetic operation.
 </p>
-
-![demo](https://raw.githubusercontent.com/Abhijith14/VB.NET-PROJECTS/master/readme_assets/cart.png)
 
 <br>
 <br>
@@ -27,14 +25,6 @@ Run the setup.exe application
 
 <br>
 
-## 🔧 Cloning to Visual Studio
-
-Visual Studio solution file can be found [here.](https://github.com/Abhijith14/VB.NET-PROJECTS/tree/master/Shopping%20Cart)
-
-
-### Deployment
-
-After clonning [this repo](https://github.com/Abhijith14/VB.NET-PROJECTS), run [Form1](https://github.com/Abhijith14/VB.NET-PROJECTS/blob/master/Shopping%20Cart/Shopping%20Cart/Form1.vb). Find the code in Form1.vb and Design in Form1.vb (Design).
 
 ### Built With
 
@@ -44,7 +34,7 @@ After clonning [this repo](https://github.com/Abhijith14/VB.NET-PROJECTS), run [
 
 ### Authors
 
-* **Abhijith Udayakumar** - *Design & Development* - [Abhijith14](https://github.com/Abhijith14)
+* **Zangtics Digital** - *Design & Development* - [Zangtics Digital](https://github.com/RCLDevelopers)
 
 <br>
 <br>
@@ -56,6 +46,6 @@ _**yes, with attribution**_.
 I value keeping my work open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my work without giving me credit. I spent a non-trivial amount of effort building and designing this project, and I am proud of it! All I ask of you all is to not claim this effort as your own.
 
 
-### TL;DR
+### 
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [Abhijith14/VB.NET-PROJECTS](https://github.com/Abhijith14/VB.NET-PROJECTS). Thanks!
+Yes, you can fork this repo. Please give me proper credit by linking back to [Zangtics Digital/VB.NET-PROJECT](https://github.com/RCLDevelopers). Thanks!
